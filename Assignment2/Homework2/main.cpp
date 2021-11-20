@@ -1,5 +1,4 @@
 //Gillian Ehman
-//Samantha Holstine and I collaberated over ideas on how to find a random direction and what operators to use to find bits of the cells of the maze.
 
 #include <iostream>
 #include <cstdint>
