@@ -7,7 +7,6 @@
 #include "BitMap.h"
 
  //Gillian Ehman
-//I collaberated with Samantha Holstine.
 
 int main(int argc, const char * argv[])
 {
