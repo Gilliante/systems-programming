@@ -4,7 +4,6 @@
  */
 
  //Gillian Ehman
- //I collaberated with Samantha Holstine, Ralph Vrooman, and Haley Hammond on ideas for this project.
 
 #define _CRT_SECURE_NO_WARNINGS
 
