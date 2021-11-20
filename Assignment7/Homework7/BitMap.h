@@ -11,7 +11,6 @@
 #include <cstdint>
 
  //Gillian Ehman
- //Collaberated with Samantha Holstine
 
 struct BitMapHeader
 {
