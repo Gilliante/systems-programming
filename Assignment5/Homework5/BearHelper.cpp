@@ -12,7 +12,6 @@
 #include "ExpandableArray.h"
 
 //Gillian Ehman
-//Collaberated with Samantha Holstine
 
 /*Constructor:  In the constructor you will read the entire file into a single string and then replace the newline
 	characters with null characters.*/
