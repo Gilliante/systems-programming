@@ -10,7 +10,6 @@
 #include "bearHelper.h"
 
 //Gillian Ehman
-//I shared ideas with Haley Hammond, and Samantha Holstine.
 
 /*
  * Counts the number of words in a file named f
