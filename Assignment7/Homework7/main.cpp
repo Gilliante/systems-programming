@@ -4,7 +4,6 @@
  */
 
  //Gillian Ehman
-//Collaberated with Samantha Holstine
 
 #include <iostream>
 #include "BitMap.h"
