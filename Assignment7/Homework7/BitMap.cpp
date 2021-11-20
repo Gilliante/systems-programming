@@ -11,7 +11,6 @@
 #include <thread>
 
  //Gillian Ehman
- //Collaberated with Samantha Holstine
 
   //Constructor
 BitMap::BitMap(int w, int h) :width(w), height(h)
