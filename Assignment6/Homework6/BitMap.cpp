@@ -4,7 +4,6 @@
  */
 
  //Gillian Ehman
- //I collaberated with Samantha Holstine.
 
 #define _CRT_SECURE_NO_WARNINGS
 
